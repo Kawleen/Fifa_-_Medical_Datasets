@@ -1,0 +1,49 @@
+0-A - Unnamed: 0
+1-B - Name
+2-C - Age
+3-D - Photo
+4-E - Nationality
+5-F - Flag
+6-G - Overall
+7-H - Potential
+8-I - Club
+9-J - Club Logo
+10-K - Value
+11-L - Wage
+12-M - Special
+13-N - Acceleration
+14-O - Aggression
+15-P - Agility
+16-Q - Balance
+17-R - Ball control
+18-S - Composure
+19-T - Crossing
+20-U - Curve
+21-V - Dribbling
+22-W - Finishing
+23-X - Free kick accuracy
+24-Y - GK diving
+25-Z - GK handling
+26-AA - GK kicking
+27-AB - GK positioning
+28-AC - GK reflexes
+29-AD - Heading accuracy
+30-AE - ID
+31-AF - Interceptions
+32-AG - Jumping
+33-AH - Long passing
+34-AI - Long shots
+35-AJ - Marking
+36-AK - Penalties
+37-AL - Positioning
+38-AM - Reactions
+39-AN - Short passing
+40-AO - Shot power
+41-AP - Sliding tackle
+42-AQ - Sprint speed
+43-AR - Stamina
+44-AS - Standing tackle
+45-AT - Strength
+46-AU - Vision
+47-AV - Volleys
+
