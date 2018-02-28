@@ -1,9 +1,4 @@
-0-A - Unnamed: 0
-1-B - Name
-2-C - Age
-3-D - Photo
-4-E - Nationality
-5-F - Flag
+ABC
 6-G - Overall
 7-H - Potential
 8-I - Club
